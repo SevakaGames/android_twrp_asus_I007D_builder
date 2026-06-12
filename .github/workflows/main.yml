@@ -6,10 +6,10 @@ on:
 env:
   MANIFEST_URL: "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git"
   MANIFEST_BRANCH: "twrp-11"
-  DEVICE_CHOICE: "omni_ASUS_I007_1-eng"
+  DEVICE_CHOICE: "twrp_ASUS_I007_1-eng"
   DEVICE_PATH: "device/asus/ASUS_I007_1"
   DEVICE_NAME: "ASUS_I007_1"
-  MAKEFILE_NAME: "omni_ASUS_I007_1"
+  MAKEFILE_NAME: "twrp_ASUS_I007_1"
 
 jobs:
   build:
